@@ -1,1 +1,3 @@
 *.obsidian
+plan/drafts/*
+!plan/drafts/example.md
